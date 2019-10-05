@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web_wyyMusic.iml" filepath="$PROJECT_DIR$/web_wyyMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyyMusic/wyyMusic.iml" filepath="$PROJECT_DIR$/wyyMusic/wyyMusic.iml" />
+    </modules>
+  </component>
+</project>
